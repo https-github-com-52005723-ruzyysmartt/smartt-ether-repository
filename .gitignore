@@ -1,0 +1,21 @@
+workspace.xml
+Smart-ether-data-emulate-repository
+build.repository
+
+# generated java classes and java source files
+#   manually add any custom artifacts that can't be generated from the models
+#   https://github.com/ruzyysmartt/Smart-ether-data-emulate-repository.git
+classes_gen
+source_gen
+source_gen.caches
+
+# generated test code and test results
+test_gen
+test_gen.caches
+TEST-*.xml
+junit*.properties
+
+more info
+
+https://github.com/ruzyysmartt/Smart-ether-data-emulate-repository.git
+©️Github.2020
